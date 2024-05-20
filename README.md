@@ -10,6 +10,8 @@
 - 📫 And now I Study Java on Ya.Practicum to get more knowledge of it.
 - 🌱 I love to learn more about Programming Architecture and Enterprise Patterns (and their performance).
 
+- p.s. I'm sorry, but you probably will not be able to find anything interesting under my repositories as most of my work is Private.
+
 
 <!--
 **ldspr0/ldspr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
