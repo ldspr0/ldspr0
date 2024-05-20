@@ -1,7 +1,15 @@
 ### Hello 👋
 
-- 🔭 I’m Salesforce Developer. I’m working fulltime and trying to spend more time on my pet projects.
-- 🌱 I’m love to learn more about Salesforce, JavaScript and other technologies.
+- My name is Aleksandr Ivanov, I'm 37 old.
+- 🔭 I'm Sr. Salesforce Developer. I worked with it more than 8 years both as a Developer and an Administrator.
+- 🏅 I have few Salesforce Certifications: 
+    - Salesforce Certified Platform Developer I
+    - Salesforce Certified Administrator
+    - Salesforce Certified Sales Cloud Consultant
+      
+- 📫 And now I Study Java on Ya.Practicum to get more knowledge of it.
+- 🌱 I love to learn more about Programming Architecture and Enterprise Patterns (and their performance).
+
 
 <!--
 **ldspr0/ldspr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
