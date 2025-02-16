@@ -1,29 +1,36 @@
-### Hello 👋
+### Hello! 👋
 
-- My name is Aleksandr Ivanov, I'm 37 old.
-- 🔭 I'm Sr. Salesforce Developer. I worked with it more than 8 years both as a Developer and an Administrator.
-- 🏅 I have few Salesforce Certifications: 
-    - Salesforce Certified Platform Developer I
-    - Salesforce Certified Administrator
-    - Salesforce Certified Sales Cloud Consultant
-      
-- 📫 And now I Study Java on Ya.Practicum to get more knowledge of it.
-- 🌱 I love to learn more about Programming Architecture and Enterprise Patterns (and their performance).
+I'm **Aleksandr Ivanov**, a passionate and experienced **Senior Salesforce Developer** with over 8 years of expertise in both development and administration. At 38, I continue to embrace the ever-evolving world of technology and strive to expand my knowledge and skills.
 
-- p.s. I'm sorry, but you probably will not be able to find anything interesting under my repositories as most of my work is Private.
+---
 
+### 🛠️ Professional Background
 
-<!--
-**ldspr0/ldspr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Role**: Senior Salesforce Developer  
+- **Experience**: 8+ years in Salesforce development and administration.  
+- **Certifications**:  
+  - Salesforce Certified Platform Developer I  
+  - Salesforce Certified Administrator  
+  - Salesforce Certified Sales Cloud Consultant  
 
-Here are some ideas to get you started:
+---
 
+### 🌱 Current Focus
 
+I’m currently diving deeper into **Java** through the **Ya.Practicum** program to broaden my programming expertise. My interests also include exploring **Programming Architecture** and **Enterprise Patterns**, with a particular focus on their performance and scalability.
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 Learning and Growth
+
+I’m passionate about continuous learning and enjoy exploring:  
+- **Software Architecture**  
+- **Design Patterns**  
+- **Performance Optimization**  
+- **Enterprise Application Development**  
+
+---
+
+### 📫 Let’s Connect
+
+Feel free to reach out if you'd like to connect or collaborate! While most of my work is private and not visible in my repositories, I’m always open to discussing ideas, sharing knowledge, or exploring new opportunities.
