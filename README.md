@@ -34,3 +34,4 @@ I’m passionate about continuous learning and enjoy exploring:
 ### 📫 Let’s Connect
 
 Feel free to reach out if you'd like to connect or collaborate! While most of my work is private and not visible in my repositories, I’m always open to discussing ideas, sharing knowledge, or exploring new opportunities.
+Email: connect@pro87.ru
