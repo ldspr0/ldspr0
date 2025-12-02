@@ -1,23 +1,24 @@
 ### Hello! 👋
 
-I'm **Aleksandr Ivanov**, a passionate and experienced **Senior Salesforce Developer** with over 8 years of expertise in both development and administration. At 38, I continue to embrace the ever-evolving world of technology and strive to expand my knowledge and skills.
+I'm **Aleksandr Ivanov**, a passionate and experienced **Senior Salesforce Developer** with over 9 years of expertise in both development and administration. At 38, I continue to embrace the ever-evolving world of technology and strive to expand my knowledge and skills.
 
 ---
 
 ### 🛠️ Professional Background
 
 - **Role**: Senior Salesforce Developer  
-- **Experience**: 8+ years in Salesforce development and administration.  
+- **Experience**: 9+ years in Salesforce development and administration.  
 - **Certifications**:  
   - Salesforce Certified Platform Developer I  
   - Salesforce Certified Administrator  
-  - Salesforce Certified Sales Cloud Consultant  
+  - Salesforce Certified Sales Cloud Consultant
+  - Java Developer from Yandex.Practicum
 
 ---
 
 ### 🌱 Current Focus
 
-I’m currently diving deeper into **Java** through the **Ya.Practicum** program to broaden my programming expertise. My interests also include exploring **Programming Architecture** and **Enterprise Patterns**, with a particular focus on their performance and scalability.
+Looking for interesting projects and/or companies to help them build meaningful products.
 
 ---
 
